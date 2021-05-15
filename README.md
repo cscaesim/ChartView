@@ -1,4 +1,4 @@
-# SwiftUICharts
+# SwiftUICharts (Forked from https://github.com/AppPear/ChartView)
 
 Swift package for displaying charts effortlessly.
 
